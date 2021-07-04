@@ -1,0 +1,16 @@
+<section class="dream-big">
+            <div class="half-width">
+                <img src="images/mas.png" alt="A picture of musical artist">
+            </div>
+        <div class="dream ">
+            <h2>Compose</h2> 
+        <h3> <span class="Orange">Price & other</span> World!</h3>
+        <h3>Musical Artist & Music Composer</h3>
+        <p>Hey everyone,This Is mohammad masnun. I am a Music Composer & Musical Artist. 
+            'Music can change the world". I believes in bringing world close together through its music.
+            So, all the music lovers who believe in magic of music come join with me and live the magic of music .
+            Thank You.</p>
+            <a class="link-botton" target="_blank" href="https://www.facebook.com/mohammad.masnun.3/">Booking Me</a>
+        </div>
+            
+    </section>
