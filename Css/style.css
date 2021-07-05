@@ -8,7 +8,7 @@ h1{
 .Orange{
     color: orange;
 }
-.flexible-continar{
+section{
     display:flex;
     margin-bottom: 150px;
     }
