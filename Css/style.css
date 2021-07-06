@@ -11,14 +11,21 @@ h2{
 .Orange{
     color: orange;
 }
+.food{
+    color:white;
+}
+.hass{
+    color: rgb(93, 124, 128);
+    text-align: center;
+}
 section{
     margin-bottom: 150px;
     }
 .flexible-continar{
     display:flex;
-}
+    }
 .half-width{
-    width: 50%;
+    width: 60%;
     padding-left: 5%;
 }
 .half-width img{
@@ -27,43 +34,71 @@ section{
 .link-botton{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 40px;
+    padding: 10px 20px;
     color: white;
-    border-radius: 5px;
+    border-radius: 30px;
+}
+.link-botton1{
+    text-align: center;
+    text-decoration: none;
+    color: black
 }
 .top-banner{
-    background-image: url(../images/top-banner.png);
+    background-image: url(../images/images/shapes/20210706_024805.jpg);
     background-repeat: no-repeat;
 }
 .dream-big{
-    background-image: url(../images/dream-bg.png);
+    background-image: url(../images/images/shapes/7.png);
     background-repeat: no-repeat;
     background-position:right;
 }
-.experince-area{
-    background-image:url(../images/exp-bg.png);
-    background-repeat: no-repeat;
-    background-position:left;
+img{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 5px;
+    width: 250px;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 5%;
 }
 .experience-item{
-    width: 40%;
+    width: 300px;
+    height: 500px;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 10px 10px 40px gray;
-    border-left: 7px solid;
-    border-image: linear-gradient(rgb(182, 201, 10), rgb(3, 196, 196));
-    border-image-slice: 1;
-    }
-.masnun{
-    border-left: 7px solid;
-    border-image: linear-gradient(rgb(207, 8, 107), rgb(196, 112, 3));
-    border-image-slice: 1;
+}
+.Food-Great{
+    display: flex;
+    width: 1200px;
+    height: 250px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px gray;
+}
+#f1{
+text-align: start;
+}
+#f2{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 40%;
+}    
+#f3{
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 40%;  
 }
 footer{
     text-align: center;
+    color: white;
+    background-color: black;
 }
+
 
 
 
